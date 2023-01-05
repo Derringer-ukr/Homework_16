@@ -37,6 +37,7 @@ a {
     font-size: 16px;
     line-height: 21px;
     color: var(--secondary-text-color);
+    text-transform: uppercase;
 }
 .main__title {
     margin-bottom: 40px;
